@@ -58,7 +58,7 @@
                <children>
                   <VBox>
                      <children>
-                        <Label text="Дууссан захиалгууд">
+                        <Label text="Дууссан захиалга">
                            <font>
                               <Font size="18.0" />
                            </font>
